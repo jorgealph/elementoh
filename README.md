@@ -2,14 +2,14 @@
 Pagina para inmobiliaria
 
 ## Requisitos
-PHP 5.3 o superior
-MySQL 5 o superior
+* PHP 5.3 o superior
+* MySQL 5 o superior
 
 ## Datos para acceder al panel de administración
 
-Ruta: **elementoh/panel**
-Usuario: **admin**
-Pass: **p@ssword**
+* Ruta: **elementoh/panel**
+* Usuario: **admin**
+* Pass: **p@ssword**
 
 ### Notas
 1. El script para crear la base de datos se encuentra en la ruta **bd/elementoh.sql**
